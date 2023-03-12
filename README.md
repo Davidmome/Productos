@@ -26,7 +26,7 @@ Puedes utilizar esta aplicacion para back end de comercio
 
 https://drive.google.com/file/d/1TjLm9W620_6ogQdlesgQjSkTfLcWPnJQ/view
 
-![imagen de la aplicacion](./imagenes/insomnia)
+![imagen de la aplicacion](https://raw.githubusercontent.com/Davidmome/Productos/main/imagenes/insomnia.PNG)
 
 ## Colaboradores
 
